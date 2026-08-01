@@ -1,5 +1,3 @@
-#AGIOS – Adaptive General Intelligence Operating System  
-
 AGIOS is a modular, local-first AI framework designed to orchestrate multiple models, execute tools, manage agents, and automate complex workflows.  
 It is built around the concept of **single‑model execution**, meaning AGIOS loads one model at a time, performs the required task, and automatically unloads it to preserve VRAM.
 
